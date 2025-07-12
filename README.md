@@ -24,7 +24,6 @@ Data cleaning and transformation were performed in Excel using Power Query and f
 - Standardized date columns (`Order Date`, `Delivery Date`) into a consistent format.
 - Created calculated columns:
   - **Delivery Time**: Delivery date minus order date.
-  - **Revenue After Discount**: Product amount minus discount.
   - Extracted **Month**, **Day**, and **Weekday** from order date.
 - Cleaned inconsistent source names.
 - Ensured all data types (dates, numbers, text) were properly formatted.
